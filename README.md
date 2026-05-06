@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Tarik 👋
 
-<!--
-**7Kronos/7Kronos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lead Enterprise Architect. I've been drawing boxes and arrows for 20 years — these days I get LLMs to argue about them on my behalf.
 
-Here are some ideas to get you started:
+## What I'm up to
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏗️ **Ezytail** — distributed systems and event-driven platforms; the usual Kubernetes/NATS/Vault stack that keeps me employed.
+- 🤖 **Sunlock** — a multi-agent orchestration harness modeled on enterprise org domains. Yes it burns tokens, but efficiently.
+- 🌊 **EzyFlow** — where I recently spent a week proving that `DoubleAck = true` was, in fact, a lie.
+
+## Off-keyboard
+
+- 🌍 Mostly France, but you might also catch me in 🇮🇹 Sestri Levante, 🇳🇱 the Dutch coast, 🇲🇦 Agadir, or 🇧🇪 Antwerpen.
+- 🍽️ Haute cuisine adventurer — will travel for a tasting menu, will silently judge your sauce.
+- 🎯 IPSC shooter — same skill as my day job, really: aim small, miss small, blame the gear.
+
+---
+*"Architecture is the art of how to waste space." — Philip Johnson (who, to be fair, never had to debug a NATS cluster)*

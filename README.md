@@ -4,6 +4,7 @@ Lead Enterprise Architect. I've been drawing boxes and arrows for 20 years — t
 
 ## What I'm up to
 
+- 🚀 **Mylabel** — building ultrasonic systems for millions of users I don't have (yet).
 - 🏗️ **Ezytail** — distributed systems and event-driven platforms; the usual Kubernetes/NATS/Vault stack that keeps me employed.
 - 🤖 **Sunlock** — a multi-agent orchestration harness modeled on enterprise org domains. Yes it burns tokens, but efficiently.
 - 🌊 **EzyFlow** — where I recently spent a week proving that `DoubleAck = true` was, in fact, a lie.

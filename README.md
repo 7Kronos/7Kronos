@@ -1,12 +1,12 @@
 # Hi, I'm Tarik 👋
 
-Lead Enterprise Architect. I've been drawing boxes and arrows for 20 years — these days I get LLMs to argue about them on my behalf.
+Lead Enterprise Architect. I've been drawing boxes and arrows for 20 years; these days I get LLMs to argue about them on my behalf.
 
 ## What I'm up to
 
-- 🚀 **@Mylabel** / building ultrasonic systems for millions of users I don't have (yet).
-- 🏗️ **@Ezytail** / distributed systems and event-driven platforms; the usual Kubernetes/NATS/Vault stack that keeps me employed.
-- 🤖 **Sunlock** / a multi-agent orchestration harness modeled on enterprise org domains. Yes it burns tokens, but efficiently.
+- 🚀 **@Mylabel** / building ultrasonic software for millions of users I don't have (yet).
+- 🏗️ **@Ezytail** / distributed systems and event-driven platforms; the usual Kubernetes/NATS/Aspire stack that keeps me employed.
+- 🤖 **Sunlock** / a multi-agent orchestration harness modeled on enterprise org domains. How much token does it burn ? Yes.
 - 🌊 **EzyFlow** / where I recently spent a week proving that `DoubleAck = true` was, in fact, a lie.
 
 ## Off-keyboard

@@ -6,7 +6,7 @@ Lead Enterprise Architect. I've been drawing boxes and arrows for 20 years; thes
 
 - 🚀 **@Mylabel** / building ultrasonic software for millions of users I don't have (yet).
 - 🏗️ **@Ezytail** / distributed systems and event-driven platforms; the usual Kubernetes/NATS/Aspire stack that keeps me employed.
-- 🤖 **Sunlock** / a multi-agent orchestration harness modeled on enterprise org domains. CFO:How much token does it burn ? Me:Yes.
+- 🤖 **Sunlock** / a multi-agent orchestration harness modeled on enterprise org domains. CFO:How many GPU's ? Me:Yes.
 - 🌊 **EzyFlow** / where I recently spent a week proving that `DoubleAck = true` was, in fact, a lie.
 
 ## Off-keyboard
